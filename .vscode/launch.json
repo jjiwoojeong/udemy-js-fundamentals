@@ -9,7 +9,7 @@
       "request": "launch",
       "name": "Open index.html",
       "reAttach": true,
-      "file": "c:\\Users\\gryph\\Documents\\udemy-js-fundamentals\\basics-01-starting-project\\index.html"
+      "file": "c:\\Users\\gryph\\Documents\\udemy-js-fundamentals\\basics-06-basic-function\\index.html"
     }
   ]
 }
