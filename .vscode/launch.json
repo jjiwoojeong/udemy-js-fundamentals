@@ -9,7 +9,7 @@
       "request": "launch",
       "name": "Open index.html",
       "reAttach": true,
-      "file": "c:\\Users\\gryph\\Documents\\udemy-js-fundamentals\\basics-10-function-refactoring\\index.html"
+      "file": "c:\\Users\\gryph\\Documents\\udemy-js-fundamentals\\basics-12-comments\\index.html"
     }
   ]
 }
